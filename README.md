@@ -1,4 +1,4 @@
-# CombinedCyclePowerPlantLinReg_Python
+# CombinedCyclePowerPlant
 Using Linear Regression and Stochastic Gradient Descent to predict the electrical energy output for a combined circle power plant.
 
 # Dataset Information
