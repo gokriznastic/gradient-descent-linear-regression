@@ -19,4 +19,4 @@ The averages are taken from various sensors located around the plant that record
 
 # Classifier Used
 
-Linear Regression, Stochastic Gradient Descent; both codes were written from scratch were used to predict the energy output for the given dataset.
+*Linear Regression* using *Stochastic Gradient Descent*; both codes were written from scratch were used to predict the energy output for the given dataset.
